@@ -1,0 +1,13 @@
+# Xcode: персональные настройки и результаты сборки
+**/xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcresult
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
